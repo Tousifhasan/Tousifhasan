@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudmahim&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudmahim" /> </p>
 
-- 🌱 I’m currently learning **C++, Laravel_Framework, node_js,  React and js**
+- 🌱 I’m currently learning **front end and backend development also Laravel_Framework, node_js,  React and js**
 
 - 💬 Ask me about **Web Development**
 
