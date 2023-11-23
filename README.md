@@ -20,7 +20,6 @@ Here are some ideas to get you started:
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tousif;Computer+Engineering+Student;Bangladeshi+web+Developer;function+findQuestion(42)" alt="Computer Engineering Student, BD web developer"></a>
 </div>
 
-<h1 align="center">Hey!! 👋, I'm Tousif Hasan</h1>
 <h3 align="center">A passionate full stack learner from Bangladesh</h3>
 <br>
 <img align="right" alt="Coding" width="400" height="370" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
