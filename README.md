@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://media.licdn.com/dms/image/C5616AQH1G9wL7GuvVw/profile-displaybackgroundimage-shrink_350_1400/0/1651084384551?e=1706140800&v=beta&t=VhHQ0XdwjO9Iskphdfh3yuFUnNi9kqM2fA5N3ZnoTl8) 
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 <h1 align="center">Hey!! 👋, I'm Tousif Hasan</h1>
 <h3 align="center">A passionate full stack learner from Bangladesh</h3>
 <br>
